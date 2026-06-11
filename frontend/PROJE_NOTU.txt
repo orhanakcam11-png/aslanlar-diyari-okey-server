@@ -1,0 +1,3 @@
+Bu frontend, Aslanlar Diyarı Okey profesyonel arayüzüdür.
+Yalnızca eğlence amaçlıdır; bahis ve kumar içermez.
+Backend bağlantısı için app/script dosyalarında API endpointleri bağlanmalıdır.
